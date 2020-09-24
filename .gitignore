@@ -13,7 +13,8 @@
 # Generated files
 bin/
 gen/
-out/
+out/dead girl in
+
 #  Uncomment the following line in case you need and you don't have the release build type files in your app
 # release/
 
@@ -64,6 +65,7 @@ captures/
 
 # Freeline
 freeline.py
+
 freeline/
 freeline_project_description.json
 
